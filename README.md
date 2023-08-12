@@ -13,6 +13,7 @@
 * max/min день по выручке продаж,
 - статистика списания:
 * max количества/цены/день.
+- ABC и XYZ-анализ.
 - сформировать на основе сводных таблиц график и гистограмму для наглядности анализа,
 - произвести вывод полученных данных в таблицу формата .xlsx в папку по ранее оговоренному адресу.
 P.S. ВСЕ ЗНАЧЕНИЯ и ДАННЫЕ РАНДОМНЫЕ.
@@ -35,3 +36,6 @@ P.S. ВСЕ ЗНАЧЕНИЯ и ДАННЫЕ РАНДОМНЫЕ.
 Используемая литература:
 https://pandas.pydata.org/
 http://dfedorov.spb.ru/pandas
+
+
+https://eodhistoricaldata.com/financial-academy/technical-analysis-examples/fibonacci-sequence-in-trading-with-python/
